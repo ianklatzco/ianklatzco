@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Python library for interacting with Bluesky: [ianklatzco/atprototools](https://github.com/ianklatzco/atprototools)
-Run your own Telegram bot for Bluesky: [ianklatzco/bsky-telegram-bot](https://github.com/ianklatzco/bsky-telegram-bot)
+- Python library for interacting with Bluesky: [ianklatzco/atprototools](https://github.com/ianklatzco/atprototools)
+- Run your own Telegram bot for Bluesky: [ianklatzco/bsky-telegram-bot](https://github.com/ianklatzco/bsky-telegram-bot)
 
 
 <!--
