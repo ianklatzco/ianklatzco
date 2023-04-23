@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github.com/ianklatzco/atprototools
+Python library for interacting with Bluesky: https://github.com/ianklatzco/atprototools
 
 
 <!--
