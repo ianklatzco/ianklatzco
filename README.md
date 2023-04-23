@@ -2,6 +2,7 @@
 
 - Python library for interacting with Bluesky: [ianklatzco/atprototools](https://github.com/ianklatzco/atprototools)
 - Run your own Telegram bot for Bluesky: [ianklatzco/bsky-telegram-bot](https://github.com/ianklatzco/bsky-telegram-bot)
+- Export Twitter to Bluesky: [ianklatzco/twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky)
 
 
 <!--
