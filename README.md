@@ -1,4 +1,4 @@
-### hello world!
+### get yer bluesky code here:
 
 - Python library for interacting with Bluesky: [ianklatzco/atprototools](https://github.com/ianklatzco/atprototools)
 - Use Telegram for interacting with Bluesky: [ianklatzco/bsky-telegram-bot](https://github.com/ianklatzco/bsky-telegram-bot)
