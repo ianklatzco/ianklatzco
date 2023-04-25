@@ -1,9 +1,9 @@
 ### get yer bluesky code here:
 
-- Python library for interacting with Bluesky: [ianklatzco/atprototools](https://github.com/ianklatzco/atprototools)
-- Use Telegram for interacting with Bluesky: [ianklatzco/bsky-telegram-bot](https://github.com/ianklatzco/bsky-telegram-bot)
+- Python library for Bluesky: [ianklatzco/atprototools](https://github.com/ianklatzco/atprototools)
+- Use Telegram for Bluesky: [ianklatzco/bsky-telegram-bot](https://github.com/ianklatzco/bsky-telegram-bot)
 - Export Twitter to Bluesky: [ianklatzco/twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky)
-- vx/fxtwitter for Bluesky: [ianklatzco/psky.app](https://github.com/ianklatzco/psky.app)
+- Link previews for Bluesky: [ianklatzco/psky.app](https://github.com/ianklatzco/psky.app)
 
 ![image](https://user-images.githubusercontent.com/1487413/234295379-3ac77cfc-53bd-4290-b523-71ebd7dd5cce.png)
 
