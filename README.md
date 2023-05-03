@@ -5,8 +5,7 @@
 - Export Twitter to Bluesky: [ianklatzco/twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky)
 - Link previews for Bluesky: [ianklatzco/psky.app](https://github.com/ianklatzco/psky.app)
 
-![image](https://user-images.githubusercontent.com/1487413/234295379-3ac77cfc-53bd-4290-b523-71ebd7dd5cce.png)
-
+<a href="//klatz.co/bsky-cbase"><img src="https://user-images.githubusercontent.com/1487413/235866058-d03f35c6-01e3-42d2-8e24-f28ed2ec9d1e.png"></a>
 
 <!--
 **ianklatzco/ianklatzco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
