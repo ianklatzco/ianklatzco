@@ -4,6 +4,7 @@ I'm a Berlin-based security consultant frequently in Seattle. I've done security
 
 I optimize for "get the ball rolling as fast as possible", so my strongest skill is getting acquainted with a new system quickly enough to be productive within my first week. My fields of depth are bugfinding, web browsers, and server administration, but I've touched compilers, operating systems, FPGAs, CPU design, and cryptography.
 
+<!--
 ### get yer bluesky code here:
 
 - Python library for Bluesky: [ianklatzco/atprototools](https://github.com/ianklatzco/atprototools)
@@ -12,7 +13,7 @@ I optimize for "get the ball rolling as fast as possible", so my strongest skill
 - Link previews for Bluesky: [ianklatzco/psky.app](https://github.com/ianklatzco/psky.app)
 
 <a href="//klatz.co/bsky-cbase"><img src="https://user-images.githubusercontent.com/1487413/235866058-d03f35c6-01e3-42d2-8e24-f28ed2ec9d1e.png"></a>
-
+-->
 
 
 <!--
