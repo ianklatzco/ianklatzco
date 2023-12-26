@@ -2,7 +2,7 @@
 
 I'm a Berlin-based security consultant frequently in Seattle. I've done security auditing work for bigtechs, Fortune 500, and smaller firms.
 
-I optimize for "get the ball rolling as fast as possible", so my strongest skill is getting acquainted with a new system quickly enough to be productive within my first week. My fields of depth are bugfinding, web browsers, and server administration, but I've touched compilers, operating systems, FPGAs, CPU design, and cryptography.
+My fields of depth are bugfinding, web browsers, and server wrangling, but I've touched compilers, operating systems, FPGAs, CPU design, and cryptography.
 
 <!--
 ### get yer bluesky code here:
