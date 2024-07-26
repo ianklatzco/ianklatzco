@@ -1,6 +1,6 @@
 ## Hi!
 
-I'm a Berlin-based security consultant frequently in Seattle. 
+I'm a San Francisco-based Security Engineer with ties to Berlin and Seattle. 
 
 I've done security auditing work for bigtechs, Fortune 500, and smaller firms.
 
