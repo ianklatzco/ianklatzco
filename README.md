@@ -2,7 +2,7 @@
 
 I'm a San Francisco-based Security Engineer with ties to Berlin and Seattle. 
 
-I've done security auditing work for bigtechs, Fortune 500, and smaller firms.
+I've done security auditing & engineering work for small firms, bigtechs, and Fortune 500.
 
 My fields of depth are bugfinding, web browsers, server wrangling, event organizing,
 
