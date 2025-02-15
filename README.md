@@ -4,9 +4,9 @@ I'm a San Francisco-based Security Engineer with ties to Berlin and Seattle.
 
 I've done security auditing work for bigtechs, Fortune 500, and smaller firms.
 
-My fields of depth are bugfinding, web browsers, and server wrangling,
+My fields of depth are bugfinding, web browsers, server wrangling, event organizing,
 
-but I've touched compilers, operating systems, FPGAs, CPU design, and cryptography.
+and I've touched compilers, operating systems, FPGAs, CPU design, and cryptography.
 
 <!--
 ### get yer bluesky code here:
